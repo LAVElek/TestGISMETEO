@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TestGISMETEO</string>
+    <string name="cbText">Показать температуру</string>
+
+
+    <string-array name="days">
+        <item>01.08.2014</item>
+        <item>01.08.2014</item>
+        <item>01.08.2014</item>
+        <item>01.08.2014</item>
+        <item>01.08.2014</item>
+        <item>01.08.2014</item>
+        <item>01.08.2014</item>
+        <item>01.08.2014</item>
+        <item>01.08.2014</item>
+        <item>01.08.2014</item>
+        <item>01.08.2014</item>
+        <item>01.08.2014</item>
+
+        <item>02.08.2014</item>
+        <item>02.08.2014</item>
+        <item>02.08.2014</item>
+        <item>02.08.2014</item>
+        <item>02.08.2014</item>
+        <item>02.08.2014</item>
+        <item>02.08.2014</item>
+        <item>02.08.2014</item>
+        <item>02.08.2014</item>
+        <item>02.08.2014</item>
+        <item>02.08.2014</item>
+        <item>02.08.2014</item>
+
+        <item>03.08.2014</item>
+        <item>03.08.2014</item>
+        <item>03.08.2014</item>
+        <item>03.08.2014</item>
+        <item>03.08.2014</item>
+        <item>03.08.2014</item>
+        <item>03.08.2014</item>
+        <item>03.08.2014</item>
+        <item>03.08.2014</item>
+        <item>03.08.2014</item>
+        <item>03.08.2014</item>
+        <item>03.08.2014</item>
+
+        <item>04.08.2014</item>
+        <item>04.08.2014</item>
+        <item>04.08.2014</item>
+        <item>04.08.2014</item>
+        <item>04.08.2014</item>
+        <item>04.08.2014</item>
+        <item>04.08.2014</item>
+        <item>04.08.2014</item>
+        <item>04.08.2014</item>
+        <item>04.08.2014</item>
+        <item>04.08.2014</item>
+        <item>04.08.2014</item>
+    </string-array>
+
+    <string-array name="hours">
+        <item>00:00</item>
+        <item>02:00</item>
+        <item>04:00</item>
+        <item>06:00</item>
+        <item>08:00</item>
+        <item>10:00</item>
+        <item>12:00</item>
+        <item>14:00</item>
+        <item>16:00</item>
+        <item>18:00</item>
+        <item>20:00</item>
+        <item>22:00</item>
+
+        <item>00:00</item>
+        <item>02:00</item>
+        <item>04:00</item>
+        <item>06:00</item>
+        <item>08:00</item>
+        <item>10:00</item>
+        <item>12:00</item>
+        <item>14:00</item>
+        <item>16:00</item>
+        <item>18:00</item>
+        <item>20:00</item>
+        <item>22:00</item>
+
+        <item>00:00</item>
+        <item>02:00</item>
+        <item>04:00</item>
+        <item>06:00</item>
+        <item>08:00</item>
+        <item>10:00</item>
+        <item>12:00</item>
+        <item>14:00</item>
+        <item>16:00</item>
+        <item>18:00</item>
+        <item>20:00</item>
+        <item>22:00</item>
+
+        <item>00:00</item>
+        <item>02:00</item>
+        <item>04:00</item>
+        <item>06:00</item>
+        <item>08:00</item>
+        <item>10:00</item>
+        <item>12:00</item>
+        <item>14:00</item>
+        <item>16:00</item>
+        <item>18:00</item>
+        <item>20:00</item>
+        <item>22:00</item>
+    </string-array>
+
+    <string-array name="temperaturies">
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>26</item>
+        <item>23</item>
+        <item>22</item>
+        <item>15</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>20</item>
+        <item>20</item>
+
+        <item>18</item>
+        <item>17</item>
+        <item>16</item>
+        <item>15</item>
+        <item>15</item>
+        <item>18</item>
+        <item>24</item>
+        <item>25</item>
+        <item>25</item>
+        <item>26</item>
+        <item>23</item>
+        <item>21</item>
+
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>20</item>
+        <item>19</item>
+        <item>18</item>
+        <item>17</item>
+        <item>23</item>
+
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>25</item>
+        <item>23</item>
+        <item>22</item>
+        <item>15</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>20</item>
+        <item>20</item>
+    </string-array>
+
+</resources>
