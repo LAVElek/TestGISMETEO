@@ -3,64 +3,65 @@
 
     <string name="app_name">TestGISMETEO</string>
     <string name="cbText">Показать температуру</string>
+    <string name="cbShowSecondGistogram">Показать вторую гистограмму</string>
 
 
     <string-array name="days">
-        <item>01.08.2014</item>
-        <item>01.08.2014</item>
-        <item>01.08.2014</item>
-        <item>01.08.2014</item>
-        <item>01.08.2014</item>
-        <item>01.08.2014</item>
-        <item>01.08.2014</item>
-        <item>01.08.2014</item>
-        <item>01.08.2014</item>
-        <item>01.08.2014</item>
-        <item>01.08.2014</item>
-        <item>01.08.2014</item>
+        <item>Fr, Aug 1</item>
+        <item>Fr, Aug 1</item>
+        <item>Fr, Aug 1</item>
+        <item>Fr, Aug 1</item>
+        <item>Fr, Aug 1</item>
+        <item>Fr, Aug 1</item>
+        <item>Fr, Aug 1</item>
+        <item>Fr, Aug 1</item>
+        <item>Fr, Aug 1</item>
+        <item>Fr, Aug 1</item>
+        <item>Fr, Aug 1</item>
+        <item>Fr, Aug 1</item>
 
-        <item>02.08.2014</item>
-        <item>02.08.2014</item>
-        <item>02.08.2014</item>
-        <item>02.08.2014</item>
-        <item>02.08.2014</item>
-        <item>02.08.2014</item>
-        <item>02.08.2014</item>
-        <item>02.08.2014</item>
-        <item>02.08.2014</item>
-        <item>02.08.2014</item>
-        <item>02.08.2014</item>
-        <item>02.08.2014</item>
+        <item>Sa, Aug 2</item>
+        <item>Sa, Aug 2</item>
+        <item>Sa, Aug 2</item>
+        <item>Sa, Aug 2</item>
+        <item>Sa, Aug 2</item>
+        <item>Sa, Aug 2</item>
+        <item>Sa, Aug 2</item>
+        <item>Sa, Aug 2</item>
+        <item>Sa, Aug 2</item>
+        <item>Sa, Aug 2</item>
+        <item>Sa, Aug 2</item>
+        <item>Sa, Aug 2</item>
 
-        <item>03.08.2014</item>
-        <item>03.08.2014</item>
-        <item>03.08.2014</item>
-        <item>03.08.2014</item>
-        <item>03.08.2014</item>
-        <item>03.08.2014</item>
-        <item>03.08.2014</item>
-        <item>03.08.2014</item>
-        <item>03.08.2014</item>
-        <item>03.08.2014</item>
-        <item>03.08.2014</item>
-        <item>03.08.2014</item>
+        <item>Su, Aug 3</item>
+        <item>Su, Aug 3</item>
+        <item>Su, Aug 3</item>
+        <item>Su, Aug 3</item>
+        <item>Su, Aug 3</item>
+        <item>Su, Aug 3</item>
+        <item>Su, Aug 3</item>
+        <item>Su, Aug 3</item>
+        <item>Su, Aug 3</item>
+        <item>Su, Aug 3</item>
+        <item>Su, Aug 3</item>
+        <item>Su, Aug 3</item>
 
-        <item>04.08.2014</item>
-        <item>04.08.2014</item>
-        <item>04.08.2014</item>
-        <item>04.08.2014</item>
-        <item>04.08.2014</item>
-        <item>04.08.2014</item>
-        <item>04.08.2014</item>
-        <item>04.08.2014</item>
-        <item>04.08.2014</item>
-        <item>04.08.2014</item>
-        <item>04.08.2014</item>
-        <item>04.08.2014</item>
+        <item>Mo, Aug 4</item>
+        <item>Mo, Aug 4</item>
+        <item>Mo, Aug 4</item>
+        <item>Mo, Aug 4</item>
+        <item>Mo, Aug 4</item>
+        <item>Mo, Aug 4</item>
+        <item>Mo, Aug 4</item>
+        <item>Mo, Aug 4</item>
+        <item>Mo, Aug 4</item>
+        <item>Mo, Aug 4</item>
+        <item>Mo, Aug 4</item>
+        <item>Mo, Aug 4</item>
     </string-array>
 
     <string-array name="hours">
-        <item>00:00</item>
+        <item>Now</item>
         <item>02:00</item>
         <item>04:00</item>
         <item>06:00</item>

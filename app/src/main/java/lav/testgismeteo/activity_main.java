@@ -45,4 +45,8 @@ public class activity_main extends ActionBarActivity {
     public void cbShowTemperature(View view) {
         gisMeteoView.setShowTemperature(((CheckBox)view).isChecked());
     }
+
+    public void cbShowSecondGistogram(View view) {
+        gisMeteoView.setShowSecondGistogram(((CheckBox)view).isChecked());
+    }
 }

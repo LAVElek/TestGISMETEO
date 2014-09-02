@@ -23,4 +23,12 @@
         android:checked="true"
         android:onClick="cbShowTemperature"/>
 
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cbShowSecondGistogram"
+        android:id="@+id/cbShowSecondGistogram"
+        android:onClick="cbShowSecondGistogram"
+        android:checked="false"/>
+
 </LinearLayout>
